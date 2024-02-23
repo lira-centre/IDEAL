@@ -1,16 +1,8 @@
 # IDEAL: Interpretable-by-design deep learning algorithms
  
 
-<<<<<<< Updated upstream
  Plamen Angelov, Dmitry Kangin, Ziyang Zhang ** IDEAL: Interpretable-by-design deep learning algorithms **.
-<div style="displaystyle=block;align=center;"><p align="center" >
-=======
- Plamen Angelov, Dmitry Kangin, Ziyang Zhang ** IDEAL: Interpretable-by-design deep learning algorithms **. towards to TMLR.
-<!-- <div style="displaystyle=block;align=center;"><p align="center" >
->>>>>>> Stashed changes
-  <img src="docs/media/example_figure.png"/>
-  </p>
-</div> -->
+
 
  # Overview 
 
