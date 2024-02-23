@@ -14,7 +14,7 @@ The proposed IDEAL (Interpretable-by-design DEep learning ALgorithms) tackles th
 
 ## Architecture Comparison 
 
-Difference between (a) a standard deep-learning model, and (b) the proposed prototype-based approach, IDEAL. Dataset credit: CIFAR-10
+Difference between (a) a standard deep-learning model, and (b) the proposed prototype-based approach, IDEAL. Dataset credit: CIFAR-10.
 
 <div style="displaystyle=block;align=center;"><p align="center" >
   <img src="Figures/Architecture.png"/>
@@ -24,7 +24,7 @@ Difference between (a) a standard deep-learning model, and (b) the proposed prot
 
 ## IDEAL decision-making process
 
-Interpreting the predictions of the proposed model (k-means (nearest), CIFAR-10, ViT)
+Interpreting the predictions of the proposed model (k-means (nearest), CIFAR-10, ViT).
 
 <div style="displaystyle=block;align=center;"><p align="center" >
   <img src="Figures/decision_making.png"/>
@@ -33,7 +33,7 @@ Interpreting the predictions of the proposed model (k-means (nearest), CIFAR-10,
 
 ## Class-incremental learning on iCIFAR-10
 
-Here we show the evolution of prototype ranking on iCIFAR-10
+Here we show the evolution of prototype ranking on iCIFAR-10.
 
 <div style="displaystyle=block;align=center;"><p align="center" >
   <img src="Figures/class-incremental learning.PNG"/>
@@ -43,7 +43,7 @@ Here we show the evolution of prototype ranking on iCIFAR-10
 
 ## Interpretations comparison on the non-finetuned and finetuned model
 
-Here we show the interpretations comparison on the non-finetuned and finetuned model with confounding on confounded CUB dataset
+Here we show the interpretations comparison on the non-finetuned and finetuned model with confounding on confounded CUB dataset.
 
 <div style="displaystyle=block;align=center;"><p align="center" >
   <img src="Figures/confounded_example.PNG"/>
