@@ -1,3 +1,5 @@
+
+
 # IDEAL: Interpretable-by-design deep learning algorithms
  
 
@@ -8,9 +10,9 @@
 
  This repository is the implementation of the paper "IDEAL: Interpretable-by-design deep learning algorithms".
 
-The proposed IDEAL IDEAL (Interpretable-by-design DEep learning ALgorithms) tackles the problem of interpretable transfer learning by recasting the standard supervised classification problem into a function of similarity to a set of prototypes derived from the training data.
+The proposed IDEAL (Interpretable-by-design DEep learning ALgorithms) tackles the problem of interpretable transfer learning by recasting the standard supervised classification problem into a function of similarity to a set of prototypes derived from the training data.
 
-## Archeticture Comparison 
+## Architecture Comparison 
 
 Difference between (a) a standard deep-learning model, and (b) the proposed prototype-based approach, IDEAL. Dataset credit: CIFAR-10
 
@@ -20,7 +22,7 @@ Difference between (a) a standard deep-learning model, and (b) the proposed prot
 </div>
 
 
-## IDEAL decision making process
+## IDEAL decision-making process
 
 Interpreting the predictions of the proposed model (k-means (nearest), CIFAR-10, ViT)
 
@@ -39,9 +41,9 @@ Here we show the evolution of prototype ranking on iCIFAR-10
 </div>
 
 
-## Interpretations comparision on the non-finetuned and finetuned model
+## Interpretations comparison on the non-finetuned and finetuned model
 
-Here we show the interpretations comparision on the non-finetuned and finetuned model with confounding on confounded CUB dataset
+Here we show the interpretations comparison on the non-finetuned and finetuned model with confounding on confounded CUB dataset
 
 <div style="displaystyle=block;align=center;"><p align="center" >
   <img src="Figures/confounded_example.PNG"/>
