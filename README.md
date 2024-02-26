@@ -3,7 +3,7 @@
 # IDEAL: Interpretable-by-design deep learning algorithms
  
 
- Plamen Angelov, Dmitry Kangin, Ziyang Zhang ** IDEAL: Interpretable-by-design deep learning algorithms **. ([paper link](https://arxiv.org/abs/2311.11396)). 
+ Plamen Angelov, Dmitry Kangin, Ziyang Zhang. IDEAL: Interpretable-by-design deep learning algorithms. ([paper link](https://arxiv.org/abs/2311.11396)). 
 
 
  # Overview 
